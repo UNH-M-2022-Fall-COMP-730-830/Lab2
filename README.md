@@ -1,6 +1,8 @@
 # COMP 730/830 Lab 2 - Your Weight On Other Planets
 ## Objectives
-- Practice
+- Review the basic object-oriented concepts: object, class, interface, inheritance, polymorphism, HAS-A and IS-A relationship.
+- Learn how to create objects and classes in Java.
+- Learn ways to implement interfaces in java. 
 
 ## Instructions
 1. Review the starter code. The main activity layout is already implemented for you. In this lab you will 
